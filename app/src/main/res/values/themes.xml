@@ -13,4 +13,31 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="title_style" parent="Theme.Music">
+        <item name="android:textSize">16dp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="author_style" parent="Theme.Music">
+        <item name="android:textSize">10dp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="action_style" parent="Theme.Music">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="Theme.Music.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Music.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Music.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
