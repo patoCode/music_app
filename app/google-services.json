@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947132333767",
+    "project_id": "spattyfay",
+    "storage_bucket": "spattyfay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947132333767:android:ad266e0ec1f1d3aafc88e2",
+        "android_client_info": {
+          "package_name": "com.training.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947132333767-uarcfuuv0ea5ir1gv69ss4bof9o6se53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.training.music",
+            "certificate_hash": "cd070c54f7d471287dc70a0fb2a55c3e56142aa6"
+          }
+        },
+        {
+          "client_id": "947132333767-ldaua1gat3i5jrvefaub57586g329qm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsw5vaF1PzQN00QB07zSDiSbIkzCnaU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947132333767-ldaua1gat3i5jrvefaub57586g329qm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

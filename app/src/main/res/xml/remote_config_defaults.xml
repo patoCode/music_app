@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>version</key>
+    <value>4</value>
+  </entry>
+  <entry>
+    <key>appTitle</key>
+    <value>New sPattyFay</value>
+  </entry>
+</defaults>
